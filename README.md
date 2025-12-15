@@ -24,39 +24,38 @@ Passionate about writing clean code, solving complex problems, and delivering pr
 ---
 
 ## 📲 Published Apps
-Production mobile applications released on **Google Play Store** and **Apple App Store** 🚀
+Production-ready mobile applications released on **Google Play Store** and **Apple App Store** 🚀
 
 ### 🏫 InClass
 Educational mobile application built with Flutter  
-[![Google Play](https://play.google.com/store/apps/details?id=com.inclass.app&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.inclass.app)
 
 ---
 
 ### 🐾 Pets Planet
 Pet services & marketplace application  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mycompany.petsplanet2)
 
 ---
 
 ### 🚚 Buzz Supplier
 Supplier & order management mobile application  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mycompany.buzzsupplier)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/buzz-supplier/id6738957841)
 
 ---
 
 ### 🌾 Salem Mar3e
 Agricultural services mobile application  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Nit.al_mariey)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/salem-mar3y/id6480218293)
 
 ---
 
 ### ⚡ Buzz
 On-demand services & logistics mobile application  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mycompany.buzz)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/buzz-app/id6739092123)
 
 > ✅ Real users  
 > ✅ Production-ready apps  
