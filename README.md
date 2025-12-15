@@ -7,17 +7,60 @@
 ## 💫 About Me
 Flutter Developer with strong experience in building scalable, high-performance mobile applications.  
 Skilled in clean architecture, state management (Bloc, Cubit, GetX), REST APIs, Firebase, Supabase, and real-time features.  
+Experienced in publishing and maintaining production apps on **Google Play Store** and **Apple App Store**.  
 Passionate about writing clean code, solving complex problems, and delivering production-ready mobile apps.
 
 ---
 
 ## 🚀 What I Do
-- Build cross-platform mobile apps using **Flutter & Dart**
+- Build cross-platform mobile applications using **Flutter & Dart**
+- Publish & maintain apps on **Google Play** and **App Store**
 - Apply clean architecture & scalable state management
 - Integrate REST APIs & real-time services
 - Work with Firebase & Supabase
-- Optimize performance and UX
-- Collaborate with UI/UX designers
+- Optimize performance and user experience
+- Collaborate closely with UI/UX designers
+
+---
+
+## 📲 Published Apps
+Production mobile applications released on **Google Play Store** and **Apple App Store** 🚀
+
+### 🏫 InClass
+Educational mobile application built with Flutter  
+[![Google Play](https://play.google.com/store/apps/details?id=com.inclass.app&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+
+---
+
+### 🐾 Pets Planet
+Pet services & marketplace application  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+
+---
+
+### 🚚 Buzz Supplier
+Supplier & order management mobile application  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+
+---
+
+### 🌾 Salem Mar3e
+Agricultural services mobile application  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+
+---
+
+### ⚡ Buzz
+On-demand services & logistics mobile application  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](ADD_GOOGLE_PLAY_LINK)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](ADD_APP_STORE_LINK)
+
+> ✅ Real users  
+> ✅ Production-ready apps  
+> ✅ Store publishing & maintenance experience
 
 ---
 
@@ -53,32 +96,6 @@ Passionate about writing clean code, solving complex problems, and delivering pr
 
 ---
 
-## 📱 Featured Projects
-
-### 🚗 On-Demand Services App
-- Real-time updates using **Pusher**
-- Google Maps with live tracking
-- Clean architecture (GetX + Cubit)
-- Firebase Authentication & Notifications  
-🔗 Repository: [Add link here]
-
----
-
-### 💬 Realtime Chat App
-- WebSocket-based messaging
-- Auto-scroll & message actions
-- Custom chat UI  
-🔗 Repository: [Add link here]
-
----
-
-### 📦 Service Booking App
-- API-based booking flow
-- Image upload (multi-select)
-- Responsive UI  
-
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-ahmed-384069222)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010712234409)
@@ -95,4 +112,4 @@ Passionate about writing clean code, solving complex problems, and delivering pr
 
 [![](https://visitcount.itsvg.in/api?id=M03azA7med&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> 🚀 Always learning. Always building.
+> 🚀 Always learning. Always building. Real apps. Real users.
