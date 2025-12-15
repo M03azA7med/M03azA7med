@@ -2,67 +2,77 @@
 
 ## 💫 About Me
 Flutter Developer with strong experience in building scalable, high-performance mobile applications.  
-Skilled in clean architecture, state management (Bloc, Cubit, GetX), REST APIs, Firebase, and real-time features.  
-Passionate about writing clean code, solving complex problems, and delivering production-ready apps.
+Skilled in clean architecture, state management (Bloc, Cubit, GetX), REST APIs, Firebase, Supabase, and real-time features.  
+Passionate about writing clean code, solving complex problems, and delivering production-ready mobile apps.
 
 ---
 
 ## 🚀 What I Do
-- Build cross-platform mobile applications using **Flutter & Dart**
-- Implement clean architecture and scalable state management
-- Integrate REST APIs & real-time services (Pusher, WebSockets)
-- Work with Firebase (Auth, FCM, Firestore)
-- Optimize performance & enhance user experience
-- Collaborate closely with UI/UX designers
+- Build cross-platform mobile apps using **Flutter & Dart**
+- Apply clean architecture & scalable state management
+- Integrate REST APIs & real-time services
+- Work with Firebase & Supabase
+- Optimize performance and UX
+- Collaborate with UI/UX designers
 
 ---
 
 ## 💻 Tech Stack
-**Mobile Development**  
-- Flutter • Dart  
 
-**State Management**  
-- Bloc • Cubit • GetX  
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & Services**  
-- REST APIs • Firebase • Supabase  
+### 🧠 State Management
+![Bloc](https://img.shields.io/badge/Bloc-5A29E4?style=for-the-badge&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-4CAF50?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Realtime & Maps**  
-- Pusher • WebSockets • Google Maps  
+### 🔌 Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**  
-- SQLite • MySQL  
+### ⚡ Realtime & Maps
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logo=socket.io&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
-**Tools & Design**  
-- Git • GitHub • Figma  
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📱 Featured Projects
 
-### 🚗 On-Demand Services App (Flutter)
-- Real-time provider status updates using **Pusher**
-- Google Maps integration with live tracking
-- Clean architecture with **GetX & Cubit**
+### 🚗 On-Demand Services App
+- Real-time updates using **Pusher**
+- Google Maps with live tracking
+- Clean architecture (GetX + Cubit)
 - Firebase Authentication & Notifications  
-🔗 **Repository:** [Add link here]
+🔗 Repository: [Add link here]
 
 ---
 
-### 💬 Realtime Chat Application
-- WebSocket-based real-time messaging
-- Auto-scroll to latest messages
-- Message selection & custom app bar actions
-- Clean UI with Flutter  
-🔗 **Repository:** [Add link here]
+### 💬 Realtime Chat App
+- WebSocket-based messaging
+- Auto-scroll & message actions
+- Custom chat UI  
+🔗 Repository: [Add link here]
 
 ---
 
 ### 📦 Service Booking App
-- API-driven service listing & booking flow
-- Image upload with multi-select support
-- Responsive UI with smooth animations  
-🔗 **Repository:** [Add link here]
+- API-based booking flow
+- Image upload (multi-select)
+- Responsive UI  
+🔗 Repository: [Add link here]
 
 ---
 
@@ -82,4 +92,4 @@ Passionate about writing clean code, solving complex problems, and delivering pr
 
 [![](https://visitcount.itsvg.in/api?id=M03azA7med&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> 💡 Always learning, always building.
+> 🚀 Always learning. Always building.
