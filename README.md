@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Moaz Ahmed
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
 ## 💫 About Me
 Flutter Developer with strong experience in building scalable, high-performance mobile applications.  
 Skilled in clean architecture, state management (Bloc, Cubit, GetX), REST APIs, Firebase, Supabase, and real-time features.  
