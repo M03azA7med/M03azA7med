@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Moaz Ahmed
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwY2FqNnVjMzZ0Mm92eDM5NGptcjJwajR5eWRtY2FsZGQyMzl0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="350"/>
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwY2FqNnVjMzZ0Mm92eDM5NGptcjJwajR5eWRtY2FsZGQyMzl0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwY2FqNnVjMzZ0Mm92eDM5NGptcjJwajR5eWRtY2FsZGQyMzl0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="350"/>
 </p>
 
 ## 💫 About Me
